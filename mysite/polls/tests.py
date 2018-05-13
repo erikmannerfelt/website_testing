@@ -10,7 +10,7 @@ import datetime
 # Create your tests here.
 
 def create_question(question_text, days):
-    """C
+    """
     Create a question with the given "question text" and published
     the given number of "days" offset to now (negative for questions
     published in the past, positive for the future).
